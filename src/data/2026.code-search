@@ -1,0 +1,27 @@
+# Query: 2025
+# ContextLines: 1
+
+6 results - 2 files
+
+src\components\Layout.tsx:
+  45              <span className="text-success">LIVE</span>
+  46:             <span className="text-muted-foreground">— Last scan: March 2026</span>
+  47            </div>
+
+  86            <p className="text-xs text-muted-foreground mb-2">
+  87:             Built for the Mosaic Wellness Fellowship 2026
+  88            </p>
+
+src\pages\Index.tsx:
+  12    { label: "Trends Scored", value: "20" },
+  13:   { label: "Last Scan", value: "Mar 2026" },
+  14  ];
+
+  74                <h2 className="text-2xl font-bold text-foreground">
+  75:                 Top 8 Opportunities — March 2026
+  76                </h2>
+
+  81              <span className="hidden text-xs text-muted-foreground font-mono md:block">
+  82:               Last updated: March 2026 | Next update: April 2026
+  
+  83              </span>
