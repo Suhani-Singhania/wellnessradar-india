@@ -1,3 +1,4 @@
+const SearchHistory = require("./models/SearchHistory");
 const express = require("express");
 const cors = require("cors");
 const googleTrends = require("google-trends-api");
