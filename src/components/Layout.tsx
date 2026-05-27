@@ -20,7 +20,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
           <Link to="/" className="flex items-center gap-2">
             <Radar className="h-6 w-6 text-primary" />
             <span className="text-lg font-bold text-foreground">
-              Wellness<span className="text-primary">Radar</span> India
+             Trend<span className="text-primary">Sage</span> AI
             </span>
           </Link>
 
@@ -80,14 +80,14 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
           <div className="flex items-center justify-center gap-2 mb-3">
             <Radar className="h-5 w-5 text-primary" />
             <span className="font-bold text-foreground">
-              Wellness<span className="text-primary">Radar</span> India
+              Trend<span className="text-primary">Sage</span> AI
             </span>
           </div>
           <p className="text-xs text-muted-foreground mb-2">
-            Built for the Mosaic Wellness Fellowship 2026
+            AI-powered wellness trend intelligence platform for Indian D2C brands
           </p>
           <p className="text-xs text-muted-foreground mb-4">
-            Data Sources: Google Trends • Reddit • Amazon India • YouTube • Answer The Public • PubMed • FSSAI
+            AI Signal Engine • Google Trends • Reddit Sentiment • YouTube Trends • PubMed Research • FSSAI Regulatory Data
           </p>
           <p className="text-xs text-muted-foreground/60">
             Disclaimer: All market size estimates are based on publicly available data. Regulatory information should be verified with FSSAI before product launch.
